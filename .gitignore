@@ -1,0 +1,8 @@
+airflowVenv
+airflow-tasks
+logs
+airflow-webserver.pid
+airflow.cfg
+airflow.db
+webserver_config.py
+*.pyc
